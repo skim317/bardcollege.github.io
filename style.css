@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(22, 22, 22);
-    color: linen;
+    background-color: #F5AEAE;
+    color: #3C5896;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -14,6 +14,12 @@ h1{
 h3{
     margin:0px;
     color: rgb(206, 216, 167);
+}
+
+skim{
+    font-size: 16px;
+    color: pink;
+    font: Helvetica;
 }
 
 h2{
@@ -46,7 +52,7 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: #B0E0E6;
     font-size: 110%;
     background:gray;
     padding: 4px;
